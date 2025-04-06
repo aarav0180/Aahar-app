@@ -97,7 +97,7 @@ Have a question, suggestion, or just want to say hi? We'd love to hear from you!
 
 ## 💡 Credits
 
-Created by [Your Name or Team Name] for the **Google Solution Challenge** 🚀
+Created by team Aahar for the **Google Solution Challenge** 🚀
 
 ---
 
