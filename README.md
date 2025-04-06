@@ -90,7 +90,7 @@ Have a question, suggestion, or just want to say hi? We'd love to hear from you!
 |-----------|-------------------------|----------------------------------------------|---------------------------------|
 | **Aarav** | aarav.18o2005@gmail.com | [@aarav](https://github.com/aarav0180)       | [LinkedIn](https://linkedin.com/in/aarav-yourprofile) |
 | **Gagan** | gaganmadhan16@gmail.com | [@gagan](https://github.com/gagan-madhan-16) | [LinkedIn](https://linkedin.com/in/teammate2)         |
-| **Shivansh** | teammate3@email.com     | [@teammate3](https://github.com/teammate3)   | [Portfolio](https://teammate3.dev)                    |
+| **Shivansh** | guptashivansh374@email.com     | [@teammate3](https://github.com/shivg2901)   | [Portfolio](https://www.linkedin.com/in/shivansh-gupta-b54160293)                    |
 | **Aniket** | teammate4@email.com     | [@teammate4](https://github.com/teammate4)   | [LinkedIn](https://linkedin.com/in/teammate4)         |
 
 ---
