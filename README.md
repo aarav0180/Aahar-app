@@ -1,8 +1,3 @@
-Here's the updated version of your `README.md` with the **screenshots line removed** and **placeholders for the backend and landing page links** added:
-
----
-
-```markdown
 # 🍽️ Aahar App – Feed the Need, One Tap at a Time!
 
 Welcome to the **Google Solution Flutter App**, built with ❤️ using Flutter and Firebase! This app is a part of the **Google Solution Challenge**, aimed at solving real-world problems with scalable tech.
@@ -45,10 +40,10 @@ Switch between themes for comfortable viewing anytime.
 
 ## 🛠️ Tech Stack
 
-- ⚙️ **Flutter** – Beautiful UIs for Android & iOS  
-- 🔥 **Firebase** – Auth, Firestore, Storage  
-- 🎨 **Custom Widgets & Responsive UI** – Made for all screen sizes  
-- 📱 **Shared Preferences** – For persistent user sessions  
+- ⚙️ **Flutter** – Beautiful UIs for Android & iOS
+- 🔥 **Firebase** – Auth, Firestore, Storage
+- 🎨 **Custom Widgets & Responsive UI** – Made for all screen sizes
+- 📱 **Shared Preferences** – For persistent user sessions
 
 ---
 
@@ -56,15 +51,15 @@ Switch between themes for comfortable viewing anytime.
 
 To run the app locally:
 
-1. Clone this repo  
+1. Clone this repo
    ```bash
    git clone https://github.com/your-username/google_solution.git
    ```
-2. Install dependencies  
+2. Install dependencies
    ```bash
    flutter pub get
    ```
-3. Run the app  
+3. Run the app
    ```bash
    flutter run
    ```
@@ -104,6 +99,3 @@ Have a question, suggestion, or just want to say hi? We'd love to hear from you!
 ## 💡 Credits
 
 Created by team Aahar for the **Google Solution Challenge** 🚀
-```
-
-Let me know if you want me to insert actual links or update any other section!
