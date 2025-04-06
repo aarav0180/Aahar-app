@@ -98,7 +98,3 @@ Have a question, suggestion, or just want to say hi? We'd love to hear from you!
 ## 💡 Credits
 
 Created by team Aahar for the **Google Solution Challenge** 🚀
-
----
-
-Let me know if you’d like a version with badges, deploy instructions, or Firebase setup help!
