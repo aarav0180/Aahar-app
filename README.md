@@ -12,8 +12,8 @@ This app is designed to **streamline the food donation process**, connecting **d
 
 ## 🔗 Links
 
-- 🌐 **Landing Page**: [Landing Page(https://aaharaap.vercel.app/)]  
-- ⚙️ **Backend API**: [Backend API(https://aahar-455814.et.r.appspot.com)]  
+- 🌐 **Landing Page**: [Landing Page](https://aaharaap.vercel.app/)
+- ⚙️ **Backend API**: [Backend API](https://aahar-455814.et.r.appspot.com)
 ---
 
 ## 🌟 Features
