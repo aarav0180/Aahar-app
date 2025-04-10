@@ -10,6 +10,12 @@ This app is designed to **streamline the food donation process**, connecting **d
 
 ---
 
+## 🔗 Links
+
+- 🌐 **Landing Page**: [Landing Page(https://aaharaap.vercel.app/)]  
+- ⚙️ **Backend API**: [Backend API(https://aahar-455814.et.r.appspot.com)]  
+---
+
 ## 🌟 Features
 
 ✨ **Role-based login & dashboard**  
@@ -66,12 +72,6 @@ To run the app locally:
 
 Make sure to add your own Firebase project and `google-services.json` / `GoogleService-Info.plist` for Android/iOS support.
 
----
-
-## 🔗 Links
-
-- 🌐 **Landing Page Website**: [[Landing Page](https://aaharaap.vercel.app/)]  
-- ⚙️ **Backend API**: [[Backend API](https://aahar-455814.et.r.appspot.com)]  
 
 ---
 
